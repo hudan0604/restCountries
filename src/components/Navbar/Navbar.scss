@@ -1,1 +1,9 @@
-.Navbar {}
+.Navbar {
+  display: flex;
+  align-items: center;
+  padding: 0 5%;
+  justify-content: space-between;
+  height: 56px;
+  background: #3b3c3f;
+  color: #fff;
+}
